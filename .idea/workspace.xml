@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33f6f2a0-c16a-489f-905f-f2db0c004474" name="Changes" comment="created functionality to all file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/CalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/CounterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/CounterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/DashboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/DashboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/SplashScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/SplashScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/TrafficLightController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/TrafficLightController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/calculator-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/calculator-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/counter-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/counter-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/dashboard-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/dashboard-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/splash-screen-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/splash-screen-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/traffic-light-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/aclcbukidnon/com/javafxactivity/traffic-light-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="a904e623dc9f328c41d5418ac631f34e21714278" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abao122005&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/petersalomeo12/javafx-activity&quot;,
+    &quot;accountId&quot;: &quot;5cde0123-6748-46c7-b57d-eb76892f0ccd&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vazKmopA03gXOpdAcHl94AG7Du" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;1b223ffa&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f6f2a0-c16a-489f-905f-f2db0c004474" name="Changes" comment="" />
+      <created>1744397912013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744397912013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created functionality to all file" />
+    <option name="LAST_COMMIT_MESSAGE" value="created functionality to all file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aclcbukidnon/com/javafxactivity/controllers/CalculatorController.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
